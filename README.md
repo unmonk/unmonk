@@ -10,6 +10,8 @@
 
 ## Experience
 
+**Software Engineer @ Olive **
+
 **Software Engineer / Founder @ Innovate Softworks LLC:**
 
 - Worked with industrial and health care clients to find solutions to their in-house software needs.
