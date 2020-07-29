@@ -10,7 +10,7 @@
 
 ## Experience
 
-**Software Engineer @ Olive **
+**Software Engineer @ Olive**
 
 **Software Engineer / Founder @ Innovate Softworks LLC:**
 
