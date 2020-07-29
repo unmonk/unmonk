@@ -39,3 +39,4 @@ _President: Association for Computing Machinery_
 _Employee: Saluki Peer Mentors_
 
 [![UnMonk's github stats](https://github-readme-stats.vercel.app/api?username=unmonk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unmonk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
