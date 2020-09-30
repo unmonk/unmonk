@@ -11,6 +11,7 @@
 ## Experience
 
 **Software Engineer @ Olive**
+- improved the care experience for patients and providers in-person COVID testing process up to seven and a half times faster, saving 86% of testing time. 
 
 **Software Engineer / Founder @ Innovate Softworks LLC:**
 
