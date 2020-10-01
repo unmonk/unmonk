@@ -2,6 +2,10 @@
 
 #### Software Engineer
 
+<p align="center">
+<a href="https://unmonk.github.io"><img src="https://img.shields.io/github/followers/UnMonk?style=for-the-badge">
+</a>
+
 ---
 
 ## [Email](mailto:scott@weaverscott.com) -- [Linkedin](https://linkedin.com/in/scottweaverdev)
