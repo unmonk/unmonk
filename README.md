@@ -1,6 +1,6 @@
 # Scott Weaver
 
-#### Software Engineer
+#### Software Engineer Team Lead
 
 <p align="center">
 <a href="https://unmonk.github.io"><img src="https://img.shields.io/github/followers/UnMonk?style=for-the-badge">
@@ -14,8 +14,18 @@
 
 ## Experience
 
-**Software Engineer @ Olive**
-- Improved the care experience for patients and providers COVID testing process, saving 86% of testing time. 
+**Software Engineer Team Lead @ Olive**
+- Full Stack Engineering with focus on Node and Typescript, process automation, cloud solutions.
+- Providing coaching, mentorship, and career development to a team of software developers.
+- Collaborate with the product owners, project managers, and other team members to plan, prioritize, and execute on sprint initiatives. 
+- Architecting coding pipelines, processes, and company standards.
+- Recruit, evaluate, and hire quality engineers.
+- Encourage innovation and foster an environment of continuous improvement.
+- Created automation to reduce COVID testing time by 86%
+- Automated COVID Vaccine scheduling and analysis.
+- Automated the updating of future patient appointments on legacy systems.
+- Automated supply chain purchase order dispatching and confirmations.
+- Work with OpenCV, OCR, Javascript, Selenium, Native Windows APIs.
 
 **Software Engineer / Founder @ Innovate Softworks LLC:**
 
@@ -39,7 +49,7 @@
 
 _President: Association for Computing Machinery_  
  _Director: SalukiLAN Charity LAN Party_  
- _Board of Directors: OpenSpace (makerspace)_  
+ _Board of Directors: OpenSpace (maker space)_  
  _Employee: Information Security_
 _Employee: Saluki Peer Mentors_
 
