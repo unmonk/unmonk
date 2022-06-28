@@ -1,6 +1,6 @@
 # Scott Weaver
 
-#### Software Engineer Team Lead
+#### Lead Software Engineer
 
 <p align="center">
 <a href="https://unmonk.github.io"><img src="https://img.shields.io/github/followers/UnMonk?style=for-the-badge">
@@ -14,7 +14,16 @@
 
 ## Experience
 
-**Software Engineer Team Lead @ Olive**
+**Lead Software Engineer (L6) @ Spot**
+- Full Stack Engineering with focus on Typescript, .Net Core, AWS Services
+- Leading the Integrations department.
+- Building a fast, central rules engine.
+- Refactoring a monolith into event driven microservices.
+- Mentor and train junior engineers.
+
+
+ 
+**Software Engineer Team Lead (L5) @ Olive**
 - Full Stack Engineering with focus on Node and Typescript, process automation, cloud solutions.
 - Providing coaching, mentorship, and career development to a team of software developers.
 - Collaborate with the product owners, project managers, and other team members to plan, prioritize, and execute on sprint initiatives. 
@@ -27,14 +36,14 @@
 - Automated supply chain purchase order dispatching and confirmations.
 - Work with OpenCV, OCR, Javascript, Selenium, Native Windows APIs.
 
-**Software Engineer / Founder @ Innovate Softworks LLC:**
+**Software Engineer (L4) / Founder @ Innovate Softworks LLC:**
 
 - Worked with industrial and health care clients to find solutions to their in-house software needs.
 - Updated legacy .Net and SQL Server applications to be compatible with modern operating systems with no interruption of service.
 - Built landing pages, payment and messenger features, MSSQL tables and stored procedures, API's and third party integrations.
 - Worked with a fully distributed, agile team and mentored junior developers.
 
-**Software Engineer II @ Liberty Mutual:**
+**Software Engineer II  (L3)  @ Liberty Mutual:**
 
 - Developed innovative new insurance product markets such as Nest Protect, RightTrack, HighwayHero, Auto OEM Telematics Programs.
 - Created numerous internal and public Restful and SOAP APIs to reduce insurance quoting time and increase user retention and sales.
