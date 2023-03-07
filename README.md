@@ -56,8 +56,8 @@
 <br>
 ## Education
 
-2012-2015
-: **Bachelor's, Computer Science**;  Southern Illinois University
+2012-2015: 
+**Bachelor's, Computer Science**;  Southern Illinois University
 
   _President: Association for Computing Machinery_  
  _Director: SalukiLAN Charity LAN Party_  
