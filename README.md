@@ -54,6 +54,9 @@
 - Maintained and migrated many C# and Java legacy on-premises services to cloud platforms such as Cloud Foundry.
 *Skills:* WebSphere Application Server · Pivotal Cloud Foundry (PCF) · .NET Framework · JavaScript · Java · React.js
 <br>
+
+---
+
 ## Education
 
 2012-2015: 
