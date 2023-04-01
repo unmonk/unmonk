@@ -1,77 +1,92 @@
-# Scott Weaver
+<h1 align = "center"> Scott Weaver </h1>
 
-#### Software Engineer
+### Lead Software Engineer @ Spot
 
+##### 04/2022 - 08/2022
 
-
-👨‍💼 I've worked across most tech stacks, and not afraid to pick up new ones. Worked with both small gritty startups and fortune500.
-🤖 I develop practical and maintainable software. Collaborate closely with my business partners, product owners and other stakeholders to ensure we deliver quality. 
-😺 I've had a chance to lead other developers on multiple occasion and have found it immensely rewarding. Hiring, growing, and retaining good people is the key to good products. 
-☣ Javascript / Typescript dominant polyglot
-🤝I'm looking to work on great products. Send me a message!
-
----
-
-## [Email](mailto:scott@weaverscott.com) -- [Linkedin](https://linkedin.com/in/scottweaverdev)
-
----
-
-## Experience
-
-**Lead Software Engineer @ Spot**
-- Lead the integrations department from a tightly coupled monolith to a event / domain driven architecture, resulting in a 50% reduction in cycle time for customer requests.
-- Implemented a forward chaining rule engine in .Net.
+- Lead the integrations department from a tightly coupled monolith to a event / domain driven architecture.
+- Implemented a forward chaining rule engine.
 - Led a team to build a system that processed and validated more than 100 million records daily.
-- Reduced the time spent on the low code platforms by 50% by adding the ability to integrate with the existing platforms.
-*Skills:* PostgreSQL · NestJS · .NET Framework · Apache Kafka · TypeScript · JavaScript · React.js · Amazon Web Services (AWS)
+- Reduced the time spent on the low code platforms by 50% by adding the ability to integrate with the existing platforms and vendors.
 
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=Apache%20Kafka)
+![AWS](https://img.shields.io/badge/-Amazon-000?&logo=Amazon%20AWS)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
- 
-**Software Engineer Team Lead @ Olive**
-- Full Stack Engineering with focus on Node and Typescript, process automation, cloud solutions.
-- Provided hiring, mentorship, career coaching and 1:1s to a team of software developers.
-- Collaborate with the product owners, project managers, and other team members to plan, prioritize, and execute on sprint initiatives.
+### Team Lead / Software Engineer @ Olive
+
+##### 07/2020 - 04/2022
+
+- Collaborated with stakeholders and other orgs to plan, prioritize, and execute on sprint initiatives. Hired, mentored and coached a team of software developers.
 - Architecting coding pipelines, processes, and company standards, encouraging innovation and continuous improvement.
-- Created automation to reduce COVID testing time by 86%
-- Automated COVID Vaccine scheduling and analysis.
+- Created automation to reduce COVID testing time by 86% and automated COVID Vaccine scheduling and analysis.
 - Automated supply chain purchase order dispatching and confirmations, and scheduling on legacy systems.
-- Worked with OpenCV, Javascript, Selenium and Native Windows APIs to create programs that can perform human like automated tasks on a variety of platforms. 
-*Skills:* Team Leadership · Selenium · OpenCV · Automation · TypeScript · JavaScript · Management · Amazon Web Services (AWS)
 
-**Software Engineer @ Innovate Softworks:**
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![AWS](https://img.shields.io/badge/-Amazon-000?&logo=Amazon%20AWS)
+
+### Software Engineer @ Innovate Softworks
+
+##### 06/2018 - 06/2021
 
 - Partnered with industrial and health care clients to analyze and develop solutions to their in-house software needs.
-- Worked with legacy .Net and SQL Server applications, refactoring and updating for modern windows operating systems. 
-- Built full stack applications with React, Node to generate and download firmware for industrial machines.
-- Worked with a fully distributed, agile team of contracted junior developers. 
-*Skills:* Microsoft SQL Server · Automation · .NET Framework · TypeScript · JavaScript · React.js
+- Worked with legacy applications, refactoring and updating for modern Windows APIs.
+- Built full stack applications to generate and download firmware for industrial machines.
+- Worked with a fully distributed, agile team of contracted junior developers.
 
-**Software Engineer II  @ Liberty Mutual:**
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft%20SQL%20Server)
+
+### Software Engineer II @ Liberty Mutual
+
+##### 01/2016 - 06/2018
 
 - Developed innovative insurance product in new markets such as Nest Protect, RightTrack, HighwayHero, Auto OEM Telematics Programs.
-- Created or maintained numerous internal and public REST and SOAP APIs in Node and MongoDB, focusing on reducing quoting time and increasing user retention. 
-- Lead a small team to create a Java API automating a search for existing discounts previously available to a customer. 
-- Maintained and migrated many C# and Java legacy on-premises services to cloud platforms such as Cloud Foundry.
-*Skills:* WebSphere Application Server · Pivotal Cloud Foundry (PCF) · .NET Framework · JavaScript · Java · React.js
-<br>
+- Created or maintained numerous internal and public REST and SOAP APIs in Node and MongoDB, focusing on reducing quoting time and increasing user retention.
+- Lead a small team to create an API automating a search for existing discounts previously available to a customer.
+- Maintained and migrated C# and Java legacy on-premises services to cloud platforms such as Cloud Foundry, AWS.
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Spring)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Websphere](https://img.shields.io/badge/-Websphere-000?&logo=IBM)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![Cloud Foundry](https://img.shields.io/badge/-Cloud%20Foundry-000?&logo=Cloud%20Foundry)
 
 ---
 
-## Education
+<img src="assets/monk.png" align="right">
 
-2012-2015: 
-**Bachelor's, Computer Science**;  Southern Illinois University
+**Gear:** &nbsp;
+<img alt="cpu badge" src="https://img.shields.io/badge/-AMD%20Ryzen%207%205800X%20@5.0GHz-ed1c24?style=flat-square&logo=AMD&logoColor=white">
+<img alt="gpu badge" src="https://img.shields.io/badge/-AMD%20Radeon%20RX%206800XT%2016GB-ed1c24?style=flat-square&logo=AMD&logoColor=white">
+<img alt="ram badge" src="https://img.shields.io/badge/-32GB%20DDR4%20@3200MHz-ed1c24?style=flat-square&logo=AMD&logoColor=white">
 
-  _President: Association for Computing Machinery_  
- _Director: SalukiLAN Charity LAN Party_  
- _Board of Directors: OpenSpace (maker space)_  
- _Employee: Information Security_
-_Employee: Saluki Peer Mentors_
-<br>
+**Tech I love:** &nbsp;
+<img alt="vscode badge" src="https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+<img alt="unity badge" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white">
+<img alt="openai badge" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAi&logoColor=white">
+<img alt="discord badge" src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white">
+<img alt="astro badge" src="https://img.shields.io/badge/-Astro-ff5d01?style=flat-square&logo=Astro&logoColor=white">
+<img alt="next badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+<img alt="ha badge" src="https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat-square&logo=Home%20Assistant&logoColor=white">
 
-[![UnMonk's github stats](https://github-readme-stats.vercel.app/api?username=unmonk)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unmonk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://unmonk.github.io"><img src="https://img.shields.io/github/followers/UnMonk?style=for-the-badge">
-</a>
+<p align="center">
+  <img alt="nation flag" height="85" src="assets/il.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="nation flag" height="85" src="assets/ll.svg">
+  <br>
+  <img alt="linkedin badge" src="https://img.shields.io/badge/-scottweaverdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scottweaverdev">&nbsp;
+  <img alt="email badge" src="https://img.shields.io/badge/-scott@weaverscott.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scott@weaverscott.com">&nbsp;
+  <img alt="follower badge " src="https://img.shields.io/github/followers/unmonk?style=social">
+  <br>
+</p>
