@@ -66,12 +66,13 @@
 
 <img src="assets/monk.png" align="right">
 
-**Gear:** &nbsp;
-<img alt="cpu badge" src="https://img.shields.io/badge/-AMD%20Ryzen%207%205800X%20@5.0GHz-ed1c24?style=flat-square&logo=AMD&logoColor=white">
-<img alt="gpu badge" src="https://img.shields.io/badge/-AMD%20Radeon%20RX%206800XT%2016GB-ed1c24?style=flat-square&logo=AMD&logoColor=white">
-<img alt="ram badge" src="https://img.shields.io/badge/-32GB%20DDR4%20@3200MHz-ed1c24?style=flat-square&logo=AMD&logoColor=white">
+**Desktop:** &nbsp; <img alt="desktop badge" src="https://img.shields.io/badge/-Ryzen%207%205800X%20@5.0GHz%20|%20Radeon%20RX%206800XT%2016GB%20|%2032GB%20DDR4%20@3200MHz-ed1c24?style=flat-square&logo=AMD&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Windows-0078d4?style=flat-square&logo=Windows%2011&logoColor=white">
 
-**Tech I love:** &nbsp;
+**Laptop:** &nbsp; <img alt="laptop badge" src="https://img.shields.io/badge/-i7_12700H%20@2.3GHz%20|%20Iris%20Xe%20Integrated%20|%2032GB%20DDR4%20@3200MHz%20-0071c5?style=flat-square&logo=intel&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+
+**Dev Server:** &nbsp; <img alt="server badge" src="https://img.shields.io/badge/-i7_8700K%20@3.8GHz%20|%20UHD%20Graphics%20630%20|%2032GB%20DDR4%20@3200MHz%20-0071c5?style=flat-square&logo=intel&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Proxmox-e57000?style=flat-square&logo=Proxmox&logoColor=white">
+
+**Tech I Love:** &nbsp;
 <img alt="vscode badge" src="https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
 <img alt="unity badge" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white">
 <img alt="openai badge" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAi&logoColor=white">
@@ -79,6 +80,13 @@
 <img alt="astro badge" src="https://img.shields.io/badge/-Astro-ff5d01?style=flat-square&logo=Astro&logoColor=white">
 <img alt="next badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 <img alt="ha badge" src="https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat-square&logo=Home%20Assistant&logoColor=white">
+
+**Tech I Want to Use:** &nbsp;
+<img alt="bun badge" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=Bun&logoColor=white">
+<img alt="trpc badge" src="https://img.shields.io/badge/-tRPC-2596be?style=flat-square&logo=tRPC&logoColor=white">
+<img alt="planetscale badge" src="https://img.shields.io/badge/-PlanetScale-000000?style=flat-square&logo=PlanetScale&logoColor=white">
+<img alt="storybook badge" src="https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=Storybook&logoColor=white">
+<img alt="go badge" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white">
 
 ---
 
