@@ -68,6 +68,19 @@
 
 ---
 
+## Education
+
+### Southern Illinois University
+
+#### Bachelors in Computer Science | 08/2012 - 12/2015
+
+- Minors: Electronic Engineering, Aviation Flight
+- President of the Association for Computing Machinery (ACM)
+- Director of SalukiLAN Charity LAN Party for ChildsPlay Charity.
+- New Student Programs Saluki Peer Mentor
+
+---
+
 <img src="assets/monk.png" align="right">
 
 **Desktop:** &nbsp; <img alt="desktop badge" src="https://img.shields.io/badge/-Ryzen%207%205800X%20@5.0GHz%20|%20Radeon%20RX%206800XT%2016GB%20|%2032GB%20DDR4%20@3200MHz-ed1c24?style=flat-square&logo=AMD&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Windows-0078d4?style=flat-square&logo=Windows%2011&logoColor=white">
