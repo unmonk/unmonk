@@ -114,4 +114,6 @@
   <img alt="email badge" src="https://img.shields.io/badge/-scott@weaverscott.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scott@weaverscott.com">&nbsp;
   <img alt="follower badge " src="https://img.shields.io/github/followers/unmonk?style=social">
   <br>
+   <img alt="veteran badge" src="https://img.shields.io/badge/US%20Veteran-black?style=flat-square&logoColor=white" >
+  <br>
 </p>
