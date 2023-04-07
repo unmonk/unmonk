@@ -10,8 +10,8 @@
 
 - Lead the integrations department from a tightly coupled monolith to a event / domain driven architecture.
 - Implemented a forward chaining rule engine.
-- Led a team to build a system that processed and validated more than 100 million records daily.
-- Reduced the time spent on the low code platforms by 50% by adding the ability to integrate with the existing platforms and vendors.
+- Worked closely with cross functional teams to maintain and extend legacy code.
+- Collaborated on a Tech Council to shape the company's technology strategy and roadmap.
 
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
