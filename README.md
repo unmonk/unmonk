@@ -95,15 +95,12 @@
 <img alt="openai badge" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAi&logoColor=white">
 <img alt="discord badge" src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white">
 <img alt="astro badge" src="https://img.shields.io/badge/-Astro-ff5d01?style=flat-square&logo=Astro&logoColor=white">
-<img alt="next badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 <img alt="ha badge" src="https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat-square&logo=Home%20Assistant&logoColor=white">
 
-**Tech I Want to Use:** &nbsp;
-<img alt="bun badge" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=Bun&logoColor=white">
+**Tech I'm Trying Now:** &nbsp;
 <img alt="trpc badge" src="https://img.shields.io/badge/-tRPC-2596be?style=flat-square&logo=tRPC&logoColor=white">
 <img alt="planetscale badge" src="https://img.shields.io/badge/-PlanetScale-000000?style=flat-square&logo=PlanetScale&logoColor=white">
-<img alt="storybook badge" src="https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=Storybook&logoColor=white">
-<img alt="go badge" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white">
+<img alt="next badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 
 ---
 
