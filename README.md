@@ -8,10 +8,9 @@
 
 ##### 04/2022 - 08/2022
 
-- Lead the integrations department from a tightly coupled monolith to a event / domain driven architecture.
-- Implemented a forward chaining rule engine.
-- Worked closely with cross functional teams to maintain and extend legacy code.
-- Collaborated on a Tech Council to shape the company's technology strategy and roadmap.
+- Led the integrations departments transition to an event-driven architecture, and rapidly prototyped solutions.
+- Implemented a forward chaining rule engine to streamline and optimize multiple disparate rulesets.
+- Collaborated on a Tech Council of the most senior engineers to shape the company's technology strategy and roadmap.
 
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -25,8 +24,8 @@
 
 ##### 07/2020 - 04/2022
 
-- Collaborated with stakeholders and other orgs to plan, prioritize, and execute on sprint initiatives. Hired, mentored and coached a team of software developers.
-- Architecting coding pipelines, processes, and company standards, encouraging innovation and continuous improvement.
+- Hired, mentored and coached a team of software developers. Led daily scrum activities.
+- Collaborated closely with healthcare partners to rapidly architect time-sensitive process automations.
 - Created automation to reduce COVID testing time by 86% and automated COVID Vaccine scheduling and analysis.
 - Automated supply chain purchase order dispatching and confirmations, and scheduling on legacy systems.
 
@@ -40,7 +39,7 @@
 
 ##### 06/2018 - 06/2021
 
-- Partnered with industrial and health care clients to analyze and develop solutions to their in-house software needs.
+- Partnered with industrial and health care clients to develop solutions for onsite, locally managed software.
 - Worked with legacy applications, refactoring and updating for modern Windows APIs.
 - Built full stack applications to generate and download firmware for industrial machines.
 - Worked with a fully distributed, agile team of contracted junior developers.
