@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://aaqi.org/">Hold Government Officials Accountable - aaqi.org</a>
-</p>
-
 <h1 align = "center"> Scott Weaver </h1>
 
 ### Lead Software Engineer @ Spot
@@ -82,29 +78,10 @@
 
 <img src="assets/monk.png" align="right">
 
-**Desktop:** &nbsp; <img alt="desktop badge" src="https://img.shields.io/badge/-Ryzen%207%205800X%20@5.0GHz%20|%20Radeon%20RX%206800XT%2016GB%20|%2032GB%20DDR4%20@3200MHz-ed1c24?style=flat-square&logo=AMD&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Windows-0078d4?style=flat-square&logo=Windows%2011&logoColor=white">
-
-**Laptop:** &nbsp; <img alt="laptop badge" src="https://img.shields.io/badge/-i7_12700H%20@2.3GHz%20|%20Iris%20Xe%20Integrated%20|%2032GB%20DDR4%20@3200MHz%20-0071c5?style=flat-square&logo=intel&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-
-**Dev Server:** &nbsp; <img alt="server badge" src="https://img.shields.io/badge/-i7_8700K%20@3.8GHz%20|%20UHD%20Graphics%20630%20|%2032GB%20DDR4%20@3200MHz%20-0071c5?style=flat-square&logo=intel&logoColor=white"> <img alt="prox badge" src="https://img.shields.io/badge/-OS: Proxmox-e57000?style=flat-square&logo=Proxmox&logoColor=white">
-
-**Tech I Love:** &nbsp;
-<img alt="vscode badge" src="https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-<img alt="unity badge" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white">
-<img alt="openai badge" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAi&logoColor=white">
-<img alt="discord badge" src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white">
-<img alt="astro badge" src="https://img.shields.io/badge/-Astro-ff5d01?style=flat-square&logo=Astro&logoColor=white">
-<img alt="ha badge" src="https://img.shields.io/badge/-Home%20Assistant-41bdf5?style=flat-square&logo=Home%20Assistant&logoColor=white">
-
-**Tech I'm Trying Now:** &nbsp;
-<img alt="trpc badge" src="https://img.shields.io/badge/-tRPC-2596be?style=flat-square&logo=tRPC&logoColor=white">
-<img alt="planetscale badge" src="https://img.shields.io/badge/-PlanetScale-000000?style=flat-square&logo=PlanetScale&logoColor=white">
-<img alt="next badge" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-
 ---
 
 <p align="center">
-  <img alt="nation flag" height="85" src="assets/il.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="nation flag" height="85" src="assets/ll.svg">
+  <img alt="nation flag" height="85" src="assets/il.svg"/>
   <br>
   <img alt="linkedin badge" src="https://img.shields.io/badge/-scottweaverdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scottweaverdev">&nbsp;
   <img alt="email badge" src="https://img.shields.io/badge/-scott@weaverscott.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scott@weaverscott.com">&nbsp;
