@@ -1,5 +1,6 @@
 ### [Resume / CV](CV.md)
 ---
+
 ![Stars](https://img.shields.io/github/stars/unmonk?style=social)  
 ![Followers](https://img.shields.io/github/followers/unmonk?style=social)  
 
@@ -17,10 +18,9 @@
 ---
 
 <p align="center">
-  <img alt="nation flag" height="85" src="assets/il.svg"/>
+  <img alt="nation flag" height="45" src="assets/il.svg"/>
   <br>
   <img alt="linkedin badge" src="https://img.shields.io/badge/-scottweaverdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scottweaverdev">&nbsp;
   <img alt="email badge" src="https://img.shields.io/badge/-scott@weaverscott.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scott@weaverscott.com">&nbsp;
   <img alt="veteran badge" src="https://img.shields.io/badge/US%20Veteran-black?style=flat-square&logoColor=white" >
-  <br>
 </p>
