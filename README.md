@@ -1,4 +1,4 @@
-### [Resume / CV](CV.md)
+### [Resume](https://weaverscott.com/cv) | [Website](https://weaverscott.com/)
 ---
 
 ![Stars](https://img.shields.io/github/stars/unmonk?style=social)  
